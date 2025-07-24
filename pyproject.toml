@@ -24,9 +24,6 @@ dependencies = [
     "python_a2a>=0.5.9",
 ]
 
-[project.scripts]
-cli = "app.cmd.cmd:main"
-
 [tool.setuptools]
 package-dir = {"" = "."}
-packages = ["app", "server", "models", "client", "utilities"]
+packages = ["server", "models", "client", "utilities"]

@@ -17,7 +17,6 @@ client/client.py
 consul_ai_agent_sdk.egg-info/PKG-INFO
 consul_ai_agent_sdk.egg-info/SOURCES.txt
 consul_ai_agent_sdk.egg-info/dependency_links.txt
-consul_ai_agent_sdk.egg-info/entry_points.txt
 consul_ai_agent_sdk.egg-info/requires.txt
 consul_ai_agent_sdk.egg-info/top_level.txt
 models/__init__.py
