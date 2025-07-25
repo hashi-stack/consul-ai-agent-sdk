@@ -59,7 +59,7 @@ class WeatherTool(BaseTool):
         # Hey developer, implement the logic to fetch weather data here
 ```
 
-A orchestrator agent with adapts its instructions by reading the child-agent card
+An orchestrator agent which adapts its instructions by reading the child-agent card.
 ```python
 class OrchestratorAgent(ConsulEnabledAIAgent):
 
